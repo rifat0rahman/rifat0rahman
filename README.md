@@ -81,7 +81,7 @@
 
 <div align="center">
     <a href="https://rifatrahman.vercel.app/" target="_blank">
-    <button>My Portfolio</button>
+    <img src="https://icons8.com/icon/ognMDWHTIaDL/resume-website" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
 
