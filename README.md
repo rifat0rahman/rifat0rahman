@@ -49,7 +49,11 @@
   <a href="https://stackoverflow.com/users/15240645/rifat-rahman" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" />
   </a>
+  <a href="https://www.upwork.com/freelancers/~0141607cb85e40bc0b" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" alt="Upwork" />
+  </a>
 </div>
+
 
 ---
 
