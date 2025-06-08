@@ -81,7 +81,7 @@
 
 <div align="center">
     <a href="https://rifatrahman.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/plasticine/100/resume-website.png" height="25" alt="My Portlofio"  />
+    <img src="https://img.icons8.com/plasticine/100/resume-website.png" height="50" alt="My Portlofio"  />
   </a>
 </div>
 
